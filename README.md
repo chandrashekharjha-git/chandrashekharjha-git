@@ -49,7 +49,7 @@ Designing secure, governed, resilient and cost-optimised cloud platforms — fro
 
 [About Me](#about-me) · [Architecture](#enterprise-architecture--landing-zones) · [DevSecOps](#terraform--devsecops-engineering) · [Migration](#large-scale-cloud-migration) · [Projects](#featured-work) · [Contact](#connect)
 
-</div>
+</div align="left">
 
 ---
 
@@ -307,7 +307,7 @@ Potential tools, where adopted: **Checkov, Trivy, TFLint, tfsec, Gitleaks, Infra
 
 *Build securely. Automate consistently. Govern continuously. Improve relentlessly.*
 
-</div>
+</div align="left">
 
 
 ## Application & Kubernetes Platform Engineering
