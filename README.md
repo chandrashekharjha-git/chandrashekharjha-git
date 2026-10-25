@@ -12,6 +12,31 @@ GITHUB PROFILE README — PERSONALIZE BEFORE PUBLISHING
    and place this file in that repository as README.md.
 -->
 
+<!--
+GITHUB PROFILE README — PERSONALIZE BEFORE PUBLISHING
+
+1) Replace YOUR_NAME with your preferred display name.
+2) Replace YOUR_GITHUB_USERNAME with your GitHub username.
+3) Replace YOUR_EMAIL with a public professional email, or remove the email link.
+4) Replace YOUR_LINKEDIN_URL with your LinkedIn URL, or remove that badge.
+5) Replace YOUR_LOCATION with your preferred location, or remove it.
+6) Replace the example project links under Featured Work with your actual repositories.
+7) Keep only skills, certifications, AI tools, and achievements you can confidently discuss in an interview.
+8) To make this your profile README, create a PUBLIC repository named exactly YOUR_GITHUB_USERNAME
+   and place this file in that repository as README.md.
+-->
+
+<!-- Animated profile header: GitHub renders externally hosted GIF/SVG images. -->
+<div align="center">
+
+<!-- Animated waving banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:0969DA,100:58A6FF&text=DEVSECOPS%20%7C%20AZURE%20%7C%20AI&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Cloud%20Architecture%20%7C%20Terraform%20%7C%20CI%2FCD%20%7C%20GitOps&descAlignY=60&descSize=16" alt="Animated DevSecOps and Azure profile banner" />
+
+<!-- Animated typing headline -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Enterprise+Azure+Cloud+Architect;DevSecOps+%7C+Terraform+%7C+Azure+DevOps;AKS+%7C+Helm+%7C+Argo+CD+%7C+GitOps;Secure+Landing+Zones+%7C+Cloud+Migration;AI-Enabled+Automation+%7C+Platform+Engineering" alt="Animated typing headline" />
+</a>
+
 <div align="center">
 
 # Hi, I'm Chandra shekhar Jha 👋
