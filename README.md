@@ -37,7 +37,6 @@ GITHUB PROFILE README — PERSONALIZE BEFORE PUBLISHING
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Enterprise+Azure+Cloud+Architect;DevSecOps+%7C+Terraform+%7C+Azure+DevOps;AKS+%7C+Helm+%7C+Argo+CD+%7C+GitOps;Secure+Landing+Zones+%7C+Cloud+Migration;AI-Enabled+Automation+%7C+Platform+Engineering" alt="Animated typing headline" />
 </a>
 
-<div align="center">
 
 # Hi, I'm Chandra shekhar Jha 👋
 
